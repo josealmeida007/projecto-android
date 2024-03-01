@@ -8,6 +8,7 @@
 #1a5c37
 #063d1e
 */
+
 @font-face {
     font-family: Android;
     src: url(../fontes/idroid.otf) format('opentype');
@@ -106,6 +107,7 @@ nav > ul:hover {
 
 main {
     background-color: white;
+    box-sizing: border-box;
     padding: 20px;
     max-width: 1000px;
     min-width: 450px;
